@@ -1,3 +1,7 @@
 export default function Home() {
-  return <h1>Site funcionando</h1>;
+  return (
+    <main style={{color: "white", background: "black", height: "100vh"}}>
+      <h1>FUNCIONOU 🚀</h1>
+    </main>
+  );
 }
